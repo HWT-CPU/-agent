@@ -1,0 +1,6 @@
+2026-04-03 01:44:31.326 | INFO     | app.my_agent.nodes.extract_keywords:extract_keywords:34 - 抽取的关键字为：['华北地区', '销售总额', '统计']
+2026-04-03 01:46:21.763 | INFO     | app.my_agent.nodes.extract_keywords:extract_keywords:34 - 抽取的关键字为：['销售总额', '华北地区', '统计']
+2026-04-03 01:48:52.607 | INFO     | app.my_agent.nodes.extract_keywords:extract_keywords:34 - 抽取的关键字为：['销售总额', '华北地区', '统计华北地区的销售总额', '统计']
+2026-04-12 23:52:56.214 | INFO     | app.my_agent.nodes.extract_keywords:extract_keywords:34 - 抽取的关键字为：['销售总额', '统计', '统计华北地区的销售总额', '华北地区']
+2026-04-13 01:13:42.923 | INFO     | app.my_agent.nodes.extract_keywords:extract_keywords:34 - 抽取的关键字为：['统计华北地区的销售总额', '统计', '华北地区', '销售总额']
+2026-04-13 01:21:23.704 | INFO     | app.my_agent.nodes.extract_keywords:extract_keywords:34 - 抽取的关键字为：['统计', '统计华北地区的销售总额', '华北地区', '销售总额']
